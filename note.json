@@ -2,9 +2,5 @@
 	{
 		"title" :  "ABC",
 		"text" :  "Dummy Text From Json"
-	},
-  	{
-		"title" :  "DEF",
-		"text" :  "Dummy Text From Json 2"
-	},
+	}
 ]
